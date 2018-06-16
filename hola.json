@@ -10,7 +10,8 @@
         "name": "Eurohobbies",
         "address": "Av. Fragoso, 26, 36210 Vigo, Pontevedra",
         "web": "http://www.eurohobbies.es/",
-        "image": "http://www.eurohobbies.es/media/portada/banner2.jpg"
+        "image": "http://www.eurohobbies.es/media/portada/banner2.jpg",
+        "sells": "Maquetas, slot"
       },
       "geometry": {
         "type": "Point",
